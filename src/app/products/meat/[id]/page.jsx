@@ -1,8 +1,8 @@
 import React from 'react'
 
-function page() {
+function page({params}) {
   return (
-  <><h1>product pages</h1></>
+    <div>meat {params.id}</div>
   )
 }
 

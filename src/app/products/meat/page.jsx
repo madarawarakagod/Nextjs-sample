@@ -1,8 +1,8 @@
 import React from 'react'
 
-function page() {
+const page = () => {
   return (
-  <><h1>product pages</h1></>
+    <><h1>meat page</h1></>
   )
 }
 
