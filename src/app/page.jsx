@@ -21,7 +21,7 @@ export default function Home() {
    </ul>
    </div>
    </div>
-   <Link href="https://nextjs.org" target="_blanks" className={styles.link}>NextJS</Link>
+   <Link href="https://nextjs.org" target="_blanks" id={styles.specialLink}>NextJS</Link>
    
    </>
   )
